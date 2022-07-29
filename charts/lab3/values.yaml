@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
-  repository: peteindockerhub/hello-rancher
+  repository: peteindockerhub/hello-rancher:1.0.2
   pullPolicy: IfNotPresent
   tag: ""
 
