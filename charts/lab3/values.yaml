@@ -25,7 +25,7 @@ ingress:
   className: ""
   annotations: {}
   hosts:
-    - host: hello-stephanie.aula.jac.bsb.br
+    - host: hello-stephanie.aula.jacexperts.io
       paths:
         - path: /
           pathType: ImplementationSpecific
